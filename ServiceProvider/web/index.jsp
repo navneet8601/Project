@@ -12,6 +12,10 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>
+            <a href="create.jsp"></a>
+            <a href="delete.jsp"></a>
+            <a href="display.jsp"></a>
+        </h1>
     </body>
 </html>
