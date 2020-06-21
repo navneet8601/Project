@@ -14,7 +14,6 @@
     <body>
         <h1>
             <a href="create.jsp">CREATE</a>
-            <a href="delete.jsp">DELETE</a>
             <a href="display.jsp">DISPLAY</a>
         </h1>
     </body>
