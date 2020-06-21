@@ -14,6 +14,7 @@
     <body>
         <h1>
             <a href="create.jsp">CREATE</a>
+            <a href="insert.jsp">INSERT</a>
             <a href="display.jsp">DISPLAY</a>
         </h1>
     </body>
